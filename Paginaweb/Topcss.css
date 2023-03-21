@@ -1,0 +1,31 @@
+body{
+background-color: #6B0608;
+}
+
+h1{
+	font-size: 70px;
+	color:white;
+	line-height: 20px;
+}
+
+p{
+	font-size: 20px;
+	color:white;
+	line-height: 20px;
+}
+
+h3{
+	font-size: 30px;
+	color:white;
+	line-height: 20px;
+}
+
+h2{
+	font-size: 20px;
+	color:white;
+	line-height: 20px;
+}
+
+table{
+	color:white;
+}

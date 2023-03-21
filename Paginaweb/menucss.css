@@ -1,0 +1,60 @@
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans';
+}
+body{
+    background-image: url(img/fondo.jpg);
+    background-size: cover;
+}
+nav{
+    max-width: 999px;
+    margin: auto;
+    background-color: #740074;
+    font-size: 20px;
+    margin-top: 10px;
+}
+.menu-horizontal{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+.menu-horizontal > li > a{
+    display: block;
+    padding: 14px 20px;
+    color: white;
+    text-decoration: line-through;
+}
+.menu-horizontal > li:hover{
+    background-color: #C963BC;
+}
+.menu-vertical{
+    position: absolute;
+    display: none;
+    list-style: none;
+    width: 200px;
+    background-color: rgba(0, 0, 0, .5);
+}
+.menu-horizontal li:hover .menu-vertical{
+    display: inline-grid;
+}
+.menu-vertical li:hover{
+    background-color: #C963BC;
+}
+
+.menu-vertical li a{
+    display: block;
+    color: white;
+    text-decoration: none;
+    padding: 10px 16px 16px 21px;
+}
+
+#html{
+    margin: auto;
+    padding: 30px;
+    max-width: 999px;
+    background: white;
+
+}
+

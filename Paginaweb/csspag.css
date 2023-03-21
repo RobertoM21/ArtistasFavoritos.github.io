@@ -1,0 +1,49 @@
+body{
+	background-color:black;
+}
+p{
+	Color:Purple;
+     font-size: 25px;
+}
+
+h6{
+	font-size:20px;
+	color: purple;
+	line-height: 20px;
+}
+
+h1{
+	font-size: 30px;
+	Color:Purple;
+	 line-height: 10px;
+}
+
+h2{
+	Color:Purple;
+	 line-height: 40px;
+}
+
+h4{
+	color:purple;
+}
+
+h3{
+    Color: #AE31ED;
+	line-height: 30px;
+}
+
+div{
+	width:auto;
+	max-width:1300px;
+	height:auto;
+	max-height: 300px;
+		padding:10px 20px 10px;
+		border-width: auto;
+		border-style:solid;
+		border-color: white;
+		margin: 40px;
+	background-color: #C963BC;
+}
+
+
+

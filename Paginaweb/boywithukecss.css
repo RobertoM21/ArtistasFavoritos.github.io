@@ -1,0 +1,25 @@
+body{
+background-color: #2B7ACD;
+}
+
+h1{
+	font-size:70px;
+	line-height: 20px;
+}
+
+h3{
+	font-size: 30px;
+	color:white;
+	line-height: 20px;
+}
+
+h2{
+	font-size: 20px;
+	color:white;
+	line-height: 20px;
+}
+
+table{
+	color:white;
+}
+
